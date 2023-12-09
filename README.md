@@ -79,7 +79,7 @@ chmod +x install.sh NexSubs
 + Omnisint(Crobat)
 
 ### API keys
-+ Add your API keys in [here](https://github.com/pushpak-11/NexSubs/blob/master/NexSubs#L45)
++ Add your API keys in [here](https://github.com/pushpak-11/NexSubs/blob/5071dd4a7b09a8b21361075a4a4b9126bbff58ed/NexSubs.sh#L44)
 
 
 ### Credit
